@@ -44,8 +44,6 @@
 
 ## 🔥 **Magic Begins where Logic Ends !! -Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajans01github&show_icons=true&theme=radical">
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rajans01github&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
